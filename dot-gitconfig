@@ -7,3 +7,5 @@
 	ui = auto
 [fetch]    
 	prune = true
+[diff]
+	tool = meld
