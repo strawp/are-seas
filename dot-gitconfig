@@ -1,0 +1,9 @@
+[user]
+	email = github@strawp.net
+	name = strawp
+[pull]
+	rebase = false
+[color]
+	ui = auto
+[fetch]    
+	prune = true
